@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "pratiksha",
+      "password": "abc@123"
+    }
+  ],
+  "reastaurant": [
+    {
+      "name": "Pizza Hutt",
+      "address": "mumbai",
+      "rating": "5.5",
+      "email": "pizzahutt@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Raswanti",
+      "address": "Gurgaon ",
+      "rating": "4.0",
+      "email": "bbqnation@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "M C DOnalds",
+      "address": "MumBai",
+      "rating": "5",
+      "email": "mcdon@gmailc.om",
+      "id": 5
+    },
+    {
+      "name": "monginese",
+      "address": "pune",
+      "rating": "8",
+      "email": "kjajkdc@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Dominos",
+      "address": "Delhi",
+      "rating": "5.5",
+      "email": "dominos123@gmail.com",
+      "id": 7
+    }
+  ]
+}
